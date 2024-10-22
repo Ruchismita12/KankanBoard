@@ -1,4 +1,4 @@
-# KankanBoard
+# KanbanBoard
 Kanban Board Application
 This project is an interactive Kanban board built using React.js that interacts with the API provided at https://api.quicksell.co/v1/internal/frontend-assignment. The application allows users to group tickets by status, assigned user, and priority. It also enables sorting tickets by priority and title.
 
